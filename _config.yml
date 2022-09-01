@@ -1,3 +1,9 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+permalink:           :title.html
+
 # Setup
 title:               Onur Özdemir
 tagline:             'Find experience and portfolio of Onur Özdemir'
@@ -5,7 +11,6 @@ description:         ''
 url:                 http://oozd.github.io
 baseurl:             ''
 paginate:            5
-permalink:           :title.html
 
 # About/contact
 author:
@@ -14,3 +19,6 @@ author:
 
 # Custom vars
 version:             1.1.0
+
+gems:
+  - jekyll-paginate
