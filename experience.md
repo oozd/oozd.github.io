@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Find my experiences below
+title: Experiences
 ---
 
 ## Toolio (Jun 2021 - Present)

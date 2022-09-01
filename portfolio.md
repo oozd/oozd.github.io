@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Find my portfolio below
+title: Portfolio
 ---
 
 ## Amsterdam Air Quality
