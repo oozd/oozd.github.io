@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Experience
+title: Experiences
 ---
 
 <p class="message">
-  Find my professional experiences below!
+  You can find my professional experiences below
 </p>
 
 ## Toolio (Jun 2021 - Present)
