@@ -1,11 +1,7 @@
 ---
 layout: page
-title: Experiences
+title: Find my experiences below
 ---
-
-<p class="message">
-  You can find my professional experiences below
-</p>
 
 ## Toolio (Jun 2021 - Present)
 [Toolio](https://toolio.com/) is a merchandising planning platform
