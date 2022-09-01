@@ -3,7 +3,10 @@ layout: post
 title: Amsterdam Air Quality Map
 ---
 
-Displays Amsterdam's air quality on google maps with an auto refresh feature.
+Displays Amsterdam's air quality on a map with auto refreshing option. Uses google maps api for maps and https://aqicn.org/json-api/doc/ for getting air quality values.
+[Demo](https://oozd.github.io/amsterdam-air-quality/)
+and
+[Code](https://github.com/oozd/amsterdam-air-quality)
 
 ### Tech Stack
 
