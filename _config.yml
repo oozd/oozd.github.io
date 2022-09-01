@@ -5,8 +5,8 @@ highlighter:         pygments
 permalink:           :title.html
 
 # Setup
-title:               Onur Özdemirr
-tagline:             'Find experience and portfolio of Onur Özdemir'
+title:               Onur Özdemir
+tagline:             'Find experience and portfolio of Onur Özdemir!'
 description:         ''
 url:                 http://oozd.github.io
 baseurl:             ''
