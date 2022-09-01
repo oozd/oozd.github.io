@@ -7,7 +7,7 @@ permalink:           :title.html
 # Setup
 title:               Onur Özdemir
 tagline:             'Onur Özdemir'
-description:         'nope!!'
+description:         'nope!!!'
 url:                 https://oozd.github.io
 baseurl:             ''
 paginate:            5
