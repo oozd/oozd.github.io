@@ -1,24 +1,24 @@
 # Dependencies
-markdown:            redcarpet
-highlighter:         pygments
+markdown: redcarpet
+highlighter: pygments
 
-permalink:           :title.html
+permalink: :title.html
 
 # Setup
-title:               Onur Özdemir
-tagline:             'Front-End Developer'
-description:         ''
-url:                 https://oozd.github.io
-baseurl:             ''
-paginate:            5
+title: Onur Özdemir
+tagline: "Full Stack Developer"
+description: ""
+url: https://oozd.github.io
+baseurl: ""
+paginate: 5
 
 # About/contact
 author:
-  name:              Onur Özdemir
-  email:             oozdemironur@gmail.com
+  name: Onur Özdemir
+  email: oozdemironur@gmail.com
 
 # Custom vars
-version:             1.1.0
+version: 1.1.0
 
 gems:
   - jekyll-paginate
