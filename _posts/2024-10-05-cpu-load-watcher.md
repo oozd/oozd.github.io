@@ -9,7 +9,7 @@ The application also indicates the start and end times of high average load peri
 
 A CPU is considered under high average load when it has exceeded 1 for 2 minutes or more. <br/>
 A CPU is considered recovered from high average load when it drops below 1 for 2 minutes or more. <br/>
-[Demo](https://oozd.github.io/load-monitoring/) <br/>
+[Demo](https://oozd.github.io/load-monitoring-web-application/) <br/>
 [Code](https://github.com/oozd/load-monitoring-web-application) <br/>
 
 ### Tech Stack

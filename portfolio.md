@@ -3,7 +3,7 @@ layout: page
 title: Portfolio
 ---
 
-## [Load Monitoring Web App (Vue)](https://oozd.github.io/load-monitoring.html)
+## [Load Monitoring Web App (Vue)](https://oozd.github.io/load-monitoring-web-application.html)
 
 ## [Amsterdam Air Quality Map (Vue)](https://oozd.github.io/amsterdam-air-quality.html)
 
